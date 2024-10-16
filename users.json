@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Rohit Varma",
+        "email": "rohit@gmail.com",
+        "age": 28
+    },
+    {
+        "name": "Suji",
+        "email": "suji@gmail.com",
+        "age": 18
+    },
+    {
+        "name": "Manju",
+        "email": "manju@gmail.com",
+        "age": 38
+    },
+    {
+        "name": "Indu",
+        "email": "indu@gmail.com",
+        "age": 30
+    },
+    {
+        "name": "Kumar L",
+        "email": "kumar@gmail.com",
+        "age": 70
+    },
+    {
+        "name": "Kumar L",
+        "email": "kur@gmail.com",
+        "age": 70
+    },
+    {
+        "name": "Mohan",
+        "email": "mohan@gmail.com",
+        "age": 50
+    }
+]
