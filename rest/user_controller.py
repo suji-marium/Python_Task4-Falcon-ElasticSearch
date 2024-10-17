@@ -4,9 +4,6 @@ from elasticsearch import Elasticsearch
 from user_write import write_user_to_file
 from models.user_model import User
 
-
-
-
 class UserGet:
     def __init__(self, user_service):
         self.user_service = user_service

@@ -5,7 +5,6 @@ from rest.user_controller import UserGet, UserPost
 from service.user_service import UserService
 from waitress import serve
 
-
 es_client = Elasticsearch(['http://localhost:9200/'])
 user_service = UserService(es_client)
 
